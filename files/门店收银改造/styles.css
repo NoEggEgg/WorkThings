@@ -1,11 +1,11 @@
 ﻿body {
   margin:0px;
   background-image:none;
-  position:relative;
-  left:0px;
+  position:static;
+  left:auto;
   width:1920px;
-  margin-left:auto;
-  margin-right:auto;
+  margin-left:0;
+  margin-right:0;
   text-align:left;
 }
 .form_sketch {
@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u1215 {
+#u2778 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:0px;
   height:0px;
 }
-#u1216_img {
+#u2779_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -32,7 +32,7 @@
   width:201px;
   height:26px;
 }
-#u1216 {
+#u2779 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -41,20 +41,20 @@
   height:26px;
   display:flex;
 }
-#u1216 .text {
+#u2779 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1216_text {
+#u2779_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1217_div {
+#u2780_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -72,7 +72,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1217 {
+#u2780 {
   border-width:0px;
   position:absolute;
   left:200px;
@@ -81,20 +81,20 @@
   height:879px;
   display:flex;
 }
-#u1217 .text {
+#u2780 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1217_text {
+#u2780_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1218_img {
+#u2781_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -102,7 +102,7 @@
   width:1920px;
   height:61px;
 }
-#u1218 {
+#u2781 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -111,417 +111,20 @@
   height:61px;
   display:flex;
 }
-#u1218 .text {
+#u2781 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1218_text {
+#u2781_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1219 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  height:0px;
-}
-#u1220_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:201px;
-  height:26px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1220_div.png');
-  background-repeat:no-repeat;
-  background-size:201px 26px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  color:#FFFFFF;
-}
-#u1220 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:86px;
-  width:201px;
-  height:26px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  color:#FFFFFF;
-}
-#u1220 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1220_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1221_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:114px;
-  height:16px;
-  background:inherit;
-  background-color:rgba(217, 231, 248, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:11px;
-  color:#555555;
-  text-align:left;
-}
-#u1221 {
-  border-width:0px;
-  position:absolute;
-  left:26px;
-  top:91px;
-  width:114px;
-  height:16px;
-  display:flex;
-  font-size:11px;
-  color:#555555;
-  text-align:left;
-}
-#u1221 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1221_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1222 {
-  position:absolute;
-  left:0px;
-  top:111px;
-  visibility:hidden;
-}
-#u1222_state0 {
-  position:relative;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:60px;
-  background-image:none;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u1222_state0_content {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1px;
-  height:1px;
-}
-#u1223_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
-  background-repeat:no-repeat;
-  background-size:200px 20px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1223 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1223 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1223_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1224_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:128px;
-  height:14px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:10px;
-  text-align:left;
-}
-#u1224 {
-  border-width:0px;
-  position:absolute;
-  left:34px;
-  top:2px;
-  width:128px;
-  height:14px;
-  display:flex;
-  font-size:10px;
-  text-align:left;
-}
-#u1224 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1224_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1225_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
-  background-repeat:no-repeat;
-  background-size:200px 20px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1225 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:20px;
-  width:200px;
-  height:20px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1225 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1225_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1226_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:128px;
-  height:14px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:10px;
-  text-align:left;
-}
-#u1226 {
-  border-width:0px;
-  position:absolute;
-  left:34px;
-  top:22px;
-  width:128px;
-  height:14px;
-  display:flex;
-  font-size:10px;
-  text-align:left;
-}
-#u1226 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1226_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1227_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
-  background-repeat:no-repeat;
-  background-size:200px 20px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1227 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:40px;
-  width:200px;
-  height:20px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1227 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1227_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1228_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:128px;
-  height:14px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:10px;
-  text-align:left;
-}
-#u1228 {
-  border-width:0px;
-  position:absolute;
-  left:34px;
-  top:42px;
-  width:128px;
-  height:14px;
-  display:flex;
-  font-size:10px;
-  text-align:left;
-}
-#u1228 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1228_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1229 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:86px;
-  width:200px;
-  height:24px;
-  overflow:hidden;
-  background-image:url('../../resources/images/transparent.gif');
-}
-#u1230_img {
+#u2782_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -529,7 +132,7 @@
   width:1713px;
   height:205px;
 }
-#u1230 {
+#u2782 {
   border-width:0px;
   position:absolute;
   left:207px;
@@ -538,20 +141,20 @@
   height:205px;
   display:flex;
 }
-#u1230 .text {
+#u2782 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1230_text {
+#u2782_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1231 {
+#u2783 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -559,7 +162,7 @@
   width:0px;
   height:0px;
 }
-#u1232_div {
+#u2784_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -568,7 +171,7 @@
   height:26px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1220_div.png');
+  background-image:url('../../images/erp/u2366_div.png');
   background-repeat:no-repeat;
   background-size:201px 26px;
   background-position: left top;
@@ -582,11 +185,11 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1232 {
+#u2784 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:136px;
+  top:361px;
   width:201px;
   height:26px;
   display:flex;
@@ -595,20 +198,20 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1232 .text {
+#u2784 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1232_text {
+#u2784_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1233_div {
+#u2785_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -626,11 +229,11 @@
   color:#555555;
   text-align:left;
 }
-#u1233 {
+#u2785 {
   border-width:0px;
   position:absolute;
   left:26px;
-  top:141px;
+  top:366px;
   width:114px;
   height:16px;
   display:flex;
@@ -638,25 +241,25 @@
   color:#555555;
   text-align:left;
 }
-#u1233 .text {
+#u2785 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1233_text {
+#u2785_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1234 {
+#u2786 {
   position:absolute;
   left:0px;
-  top:161px;
+  top:386px;
   visibility:hidden;
 }
-#u1234_state0 {
+#u2786_state0 {
   position:relative;
   left:0px;
   top:0px;
@@ -669,7 +272,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1234_state0_content {
+#u2786_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -677,7 +280,7 @@
   width:1px;
   height:1px;
 }
-#u1235_div {
+#u2787_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -686,7 +289,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -699,7 +302,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1235 {
+#u2787 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -711,20 +314,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1235 .text {
+#u2787 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1235_text {
+#u2787_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1236_div {
+#u2788_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -741,7 +344,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1236 {
+#u2788 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -752,19 +355,19 @@
   font-size:10px;
   text-align:left;
 }
-#u1236 .text {
+#u2788 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1236_text {
+#u2788_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1237_div {
+#u2789_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -773,7 +376,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -786,7 +389,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1237 {
+#u2789 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -798,20 +401,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1237 .text {
+#u2789 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1237_text {
+#u2789_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1238_div {
+#u2790_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -828,7 +431,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1238 {
+#u2790 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -839,19 +442,19 @@
   font-size:10px;
   text-align:left;
 }
-#u1238 .text {
+#u2790 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1238_text {
+#u2790_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1239_div {
+#u2791_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -860,7 +463,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -873,7 +476,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1239 {
+#u2791 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -885,20 +488,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1239 .text {
+#u2791 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1239_text {
+#u2791_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1240_div {
+#u2792_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -915,7 +518,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1240 {
+#u2792 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -926,29 +529,29 @@
   font-size:10px;
   text-align:left;
 }
-#u1240 .text {
+#u2792 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1240_text {
+#u2792_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1241 {
+#u2793 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:136px;
+  top:361px;
   width:200px;
   height:24px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u1242 {
+#u2794 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -956,7 +559,7 @@
   width:0px;
   height:0px;
 }
-#u1243_div {
+#u2795_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -965,7 +568,7 @@
   height:26px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1220_div.png');
+  background-image:url('../../images/erp/u2366_div.png');
   background-repeat:no-repeat;
   background-size:201px 26px;
   background-position: left top;
@@ -979,11 +582,11 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1243 {
+#u2795 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:161px;
+  top:336px;
   width:201px;
   height:26px;
   display:flex;
@@ -992,20 +595,20 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1243 .text {
+#u2795 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1243_text {
+#u2795_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1244_div {
+#u2796_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1023,11 +626,11 @@
   color:#555555;
   text-align:left;
 }
-#u1244 {
+#u2796 {
   border-width:0px;
   position:absolute;
   left:26px;
-  top:166px;
+  top:341px;
   width:114px;
   height:16px;
   display:flex;
@@ -1035,29 +638,317 @@
   color:#555555;
   text-align:left;
 }
-#u1244 .text {
+#u2796 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1244_text {
+#u2796_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1245 {
+#u2797 {
+  position:absolute;
+  left:0px;
+  top:361px;
+  visibility:hidden;
+}
+#u2797_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:60px;
+  background-image:none;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u2797_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:161px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u2798_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2369_div.png');
+  background-repeat:no-repeat;
+  background-size:200px 20px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2798 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2798 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2798_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2799_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:10px;
+  text-align:left;
+}
+#u2799 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:2px;
+  width:128px;
+  height:14px;
+  display:flex;
+  font-size:10px;
+  text-align:left;
+}
+#u2799 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2799_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2800_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2369_div.png');
+  background-repeat:no-repeat;
+  background-size:200px 20px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2800 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:20px;
+  width:200px;
+  height:20px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2800 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2800_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2801_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:10px;
+  text-align:left;
+}
+#u2801 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:22px;
+  width:128px;
+  height:14px;
+  display:flex;
+  font-size:10px;
+  text-align:left;
+}
+#u2801 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2801_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2802_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2369_div.png');
+  background-repeat:no-repeat;
+  background-size:200px 20px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2802 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:40px;
+  width:200px;
+  height:20px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2802 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2802_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2803_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:10px;
+  text-align:left;
+}
+#u2803 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:42px;
+  width:128px;
+  height:14px;
+  display:flex;
+  font-size:10px;
+  text-align:left;
+}
+#u2803 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2803_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2804 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:336px;
   width:200px;
   height:24px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u1246 {
+#u2805 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1065,7 +956,7 @@
   width:0px;
   height:0px;
 }
-#u1247_div {
+#u2806_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1074,7 +965,7 @@
   height:26px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1220_div.png');
+  background-image:url('../../images/erp/u2366_div.png');
   background-repeat:no-repeat;
   background-size:201px 26px;
   background-position: left top;
@@ -1088,81 +979,776 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1247 {
+#u2806 {
   border-width:0px;
+  position:absolute;
+  left:0px;
+  top:311px;
+  width:201px;
+  height:26px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u2806 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2806_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2807_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:114px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(217, 231, 248, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:11px;
+  color:#555555;
+  text-align:left;
+}
+#u2807 {
+  border-width:0px;
+  position:absolute;
+  left:26px;
+  top:316px;
+  width:114px;
+  height:16px;
+  display:flex;
+  font-size:11px;
+  color:#555555;
+  text-align:left;
+}
+#u2807 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2807_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2808 {
+  position:absolute;
+  left:0px;
+  top:336px;
+  visibility:hidden;
+}
+#u2808_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:60px;
+  background-image:none;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u2808_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u2809_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2369_div.png');
+  background-repeat:no-repeat;
+  background-size:200px 20px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2809 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2809 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2809_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2810_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:10px;
+  text-align:left;
+}
+#u2810 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:2px;
+  width:128px;
+  height:14px;
+  display:flex;
+  font-size:10px;
+  text-align:left;
+}
+#u2810 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2810_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2811_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2369_div.png');
+  background-repeat:no-repeat;
+  background-size:200px 20px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2811 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:20px;
+  width:200px;
+  height:20px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2811 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2811_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2812_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:10px;
+  text-align:left;
+}
+#u2812 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:22px;
+  width:128px;
+  height:14px;
+  display:flex;
+  font-size:10px;
+  text-align:left;
+}
+#u2812 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2812_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2813_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2369_div.png');
+  background-repeat:no-repeat;
+  background-size:200px 20px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2813 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:40px;
+  width:200px;
+  height:20px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2813 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2813_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2814_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:10px;
+  text-align:left;
+}
+#u2814 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:42px;
+  width:128px;
+  height:14px;
+  display:flex;
+  font-size:10px;
+  text-align:left;
+}
+#u2814 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2814_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2815 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:311px;
+  width:200px;
+  height:24px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u2816 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u2817_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:201px;
+  height:26px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2366_div.png');
+  background-repeat:no-repeat;
+  background-size:201px 26px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u2817 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:286px;
+  width:201px;
+  height:26px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u2817 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2817_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2818_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:114px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(217, 231, 248, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:11px;
+  color:#555555;
+  text-align:left;
+}
+#u2818 {
+  border-width:0px;
+  position:absolute;
+  left:26px;
+  top:291px;
+  width:114px;
+  height:16px;
+  display:flex;
+  font-size:11px;
+  color:#555555;
+  text-align:left;
+}
+#u2818 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2818_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2819 {
+  position:absolute;
+  left:0px;
+  top:311px;
+  visibility:hidden;
+}
+#u2819_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:60px;
+  background-image:none;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u2819_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u2820_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2369_div.png');
+  background-repeat:no-repeat;
+  background-size:200px 20px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2820 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2820 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2820_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2821_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:10px;
+  text-align:left;
+}
+#u2821 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:2px;
+  width:128px;
+  height:14px;
+  display:flex;
+  font-size:10px;
+  text-align:left;
+}
+#u2821 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2821_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2822_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2369_div.png');
+  background-repeat:no-repeat;
+  background-size:200px 20px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2822 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:20px;
+  width:200px;
+  height:20px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2822 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2822_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2823_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:10px;
+  text-align:left;
+}
+#u2823 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:22px;
+  width:128px;
+  height:14px;
+  display:flex;
+  font-size:10px;
+  text-align:left;
+}
+#u2823 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2823_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2824_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2369_div.png');
+  background-repeat:no-repeat;
+  background-size:200px 20px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2824 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:40px;
+  width:200px;
+  height:20px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2824 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2824_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2825_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:10px;
+  text-align:left;
+}
+#u2825 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:42px;
+  width:128px;
+  height:14px;
+  display:flex;
+  font-size:10px;
+  text-align:left;
+}
+#u2825 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2825_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2826 {
+  border-width:0px;
+  position:absolute;
+  left:1px;
+  top:286px;
+  width:200px;
+  height:24px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u2827 {
   position:absolute;
   left:0px;
   top:186px;
-  width:201px;
-  height:26px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  color:#FFFFFF;
-}
-#u1247 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1247_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
   visibility:hidden;
 }
-#u1248_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:114px;
-  height:16px;
-  background:inherit;
-  background-color:rgba(217, 231, 248, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:11px;
-  color:#555555;
-  text-align:left;
-}
-#u1248 {
-  border-width:0px;
-  position:absolute;
-  left:26px;
-  top:191px;
-  width:114px;
-  height:16px;
-  display:flex;
-  font-size:11px;
-  color:#555555;
-  text-align:left;
-}
-#u1248 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1248_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1249 {
-  position:absolute;
-  left:0px;
-  top:211px;
-  visibility:hidden;
-}
-#u1249_state0 {
+#u2827_state0 {
   position:relative;
   left:0px;
   top:0px;
@@ -1175,7 +1761,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1249_state0_content {
+#u2827_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1183,7 +1769,7 @@
   width:1px;
   height:1px;
 }
-#u1250_div {
+#u2828_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1192,7 +1778,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -1205,7 +1791,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1250 {
+#u2828 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1217,20 +1803,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1250 .text {
+#u2828 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1250_text {
+#u2828_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1251_div {
+#u2829_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1247,7 +1833,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1251 {
+#u2829 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -1258,19 +1844,19 @@
   font-size:10px;
   text-align:left;
 }
-#u1251 .text {
+#u2829 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1251_text {
+#u2829_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1252_div {
+#u2830_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1279,7 +1865,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -1292,7 +1878,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1252 {
+#u2830 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1304,20 +1890,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1252 .text {
+#u2830 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1252_text {
+#u2830_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1253_div {
+#u2831_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1334,7 +1920,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1253 {
+#u2831 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -1345,19 +1931,19 @@
   font-size:10px;
   text-align:left;
 }
-#u1253 .text {
+#u2831 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1253_text {
+#u2831_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1254_div {
+#u2832_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1366,7 +1952,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -1379,7 +1965,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1254 {
+#u2832 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1391,20 +1977,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1254 .text {
+#u2832 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1254_text {
+#u2832_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1255_div {
+#u2833_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1421,7 +2007,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1255 {
+#u2833 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -1432,29 +2018,19 @@
   font-size:10px;
   text-align:left;
 }
-#u1255 .text {
+#u2833 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1255_text {
+#u2833_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1256 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:186px;
-  width:200px;
-  height:24px;
-  overflow:hidden;
-  background-image:url('../../resources/images/transparent.gif');
-}
-#u1257 {
+#u2834 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1462,7 +2038,7 @@
   width:0px;
   height:0px;
 }
-#u1258_div {
+#u2835_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1471,7 +2047,7 @@
   height:26px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1220_div.png');
+  background-image:url('../../images/erp/u2366_div.png');
   background-repeat:no-repeat;
   background-size:201px 26px;
   background-position: left top;
@@ -1485,11 +2061,11 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1258 {
+#u2835 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:111px;
+  top:261px;
   width:201px;
   height:26px;
   display:flex;
@@ -1498,20 +2074,20 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1258 .text {
+#u2835 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1258_text {
+#u2835_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1259_div {
+#u2836_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1529,11 +2105,11 @@
   color:#555555;
   text-align:left;
 }
-#u1259 {
+#u2836 {
   border-width:0px;
   position:absolute;
   left:26px;
-  top:116px;
+  top:266px;
   width:114px;
   height:16px;
   display:flex;
@@ -1541,25 +2117,25 @@
   color:#555555;
   text-align:left;
 }
-#u1259 .text {
+#u2836 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1259_text {
+#u2836_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1260 {
+#u2837 {
   position:absolute;
   left:0px;
-  top:136px;
+  top:286px;
   visibility:hidden;
 }
-#u1260_state0 {
+#u2837_state0 {
   position:relative;
   left:0px;
   top:0px;
@@ -1572,7 +2148,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1260_state0_content {
+#u2837_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1580,7 +2156,7 @@
   width:1px;
   height:1px;
 }
-#u1261_div {
+#u2838_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1589,7 +2165,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -1602,7 +2178,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1261 {
+#u2838 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1614,20 +2190,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1261 .text {
+#u2838 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1261_text {
+#u2838_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1262_div {
+#u2839_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1644,7 +2220,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1262 {
+#u2839 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -1655,19 +2231,19 @@
   font-size:10px;
   text-align:left;
 }
-#u1262 .text {
+#u2839 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1262_text {
+#u2839_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1263_div {
+#u2840_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1676,7 +2252,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -1689,7 +2265,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1263 {
+#u2840 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1701,20 +2277,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1263 .text {
+#u2840 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1263_text {
+#u2840_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1264_div {
+#u2841_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1731,7 +2307,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1264 {
+#u2841 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -1742,19 +2318,19 @@
   font-size:10px;
   text-align:left;
 }
-#u1264 .text {
+#u2841 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1264_text {
+#u2841_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1265_div {
+#u2842_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1763,7 +2339,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -1776,7 +2352,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1265 {
+#u2842 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1788,20 +2364,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1265 .text {
+#u2842 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1265_text {
+#u2842_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1266_div {
+#u2843_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1818,7 +2394,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1266 {
+#u2843 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -1829,29 +2405,29 @@
   font-size:10px;
   text-align:left;
 }
-#u1266 .text {
+#u2843 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1266_text {
+#u2843_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1267 {
+#u2844 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:111px;
+  top:261px;
   width:200px;
   height:24px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u1268 {
+#u2845 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1859,7 +2435,7 @@
   width:0px;
   height:0px;
 }
-#u1269_div {
+#u2846_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1868,7 +2444,7 @@
   height:26px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1220_div.png');
+  background-image:url('../../images/erp/u2366_div.png');
   background-repeat:no-repeat;
   background-size:201px 26px;
   background-position: left top;
@@ -1882,11 +2458,11 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1269 {
+#u2846 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:211px;
+  top:236px;
   width:201px;
   height:26px;
   display:flex;
@@ -1895,20 +2471,20 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1269 .text {
+#u2846 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1269_text {
+#u2846_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1270_div {
+#u2847_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1926,7 +2502,404 @@
   color:#555555;
   text-align:left;
 }
-#u1270 {
+#u2847 {
+  border-width:0px;
+  position:absolute;
+  left:26px;
+  top:241px;
+  width:114px;
+  height:16px;
+  display:flex;
+  font-size:11px;
+  color:#555555;
+  text-align:left;
+}
+#u2847 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2847_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2848 {
+  position:absolute;
+  left:0px;
+  top:261px;
+  visibility:hidden;
+}
+#u2848_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:60px;
+  background-image:none;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u2848_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u2849_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2369_div.png');
+  background-repeat:no-repeat;
+  background-size:200px 20px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2849 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2849 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2849_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2850_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:10px;
+  text-align:left;
+}
+#u2850 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:2px;
+  width:128px;
+  height:14px;
+  display:flex;
+  font-size:10px;
+  text-align:left;
+}
+#u2850 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2850_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2851_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2369_div.png');
+  background-repeat:no-repeat;
+  background-size:200px 20px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2851 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:20px;
+  width:200px;
+  height:20px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2851 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2851_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2852_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:10px;
+  text-align:left;
+}
+#u2852 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:22px;
+  width:128px;
+  height:14px;
+  display:flex;
+  font-size:10px;
+  text-align:left;
+}
+#u2852 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2852_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2853_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2369_div.png');
+  background-repeat:no-repeat;
+  background-size:200px 20px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2853 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:40px;
+  width:200px;
+  height:20px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2853 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2853_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2854_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:10px;
+  text-align:left;
+}
+#u2854 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:42px;
+  width:128px;
+  height:14px;
+  display:flex;
+  font-size:10px;
+  text-align:left;
+}
+#u2854 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2854_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2855 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:236px;
+  width:200px;
+  height:24px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u2856 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u2857_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:201px;
+  height:26px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2366_div.png');
+  background-repeat:no-repeat;
+  background-size:201px 26px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u2857 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:211px;
+  width:201px;
+  height:26px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u2857 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2857_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2858_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:114px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(217, 231, 248, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:11px;
+  color:#555555;
+  text-align:left;
+}
+#u2858 {
   border-width:0px;
   position:absolute;
   left:26px;
@@ -1938,25 +2911,25 @@
   color:#555555;
   text-align:left;
 }
-#u1270 .text {
+#u2858 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1270_text {
+#u2858_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1271 {
+#u2859 {
   position:absolute;
   left:0px;
   top:236px;
   visibility:hidden;
 }
-#u1271_state0 {
+#u2859_state0 {
   position:relative;
   left:0px;
   top:0px;
@@ -1969,7 +2942,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1271_state0_content {
+#u2859_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1977,7 +2950,7 @@
   width:1px;
   height:1px;
 }
-#u1272_div {
+#u2860_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1986,7 +2959,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -1999,7 +2972,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1272 {
+#u2860 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -2011,20 +2984,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1272 .text {
+#u2860 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1272_text {
+#u2860_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1273_div {
+#u2861_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -2041,7 +3014,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1273 {
+#u2861 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -2052,14 +3025,14 @@
   font-size:10px;
   text-align:left;
 }
-#u1273 .text {
+#u2861 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1273_div.mouseOver {
+#u2861_div.mouseOver {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -2076,14 +3049,14 @@
   font-size:10px;
   text-align:left;
 }
-#u1273.mouseOver {
+#u2861.mouseOver {
 }
-#u1273_text {
+#u2861_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1274_div {
+#u2862_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -2092,7 +3065,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -2105,7 +3078,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1274 {
+#u2862 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -2117,20 +3090,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1274 .text {
+#u2862 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1274_text {
+#u2862_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1275_div {
+#u2863_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -2147,7 +3120,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1275 {
+#u2863 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -2158,14 +3131,14 @@
   font-size:10px;
   text-align:left;
 }
-#u1275 .text {
+#u2863 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1275_div.mouseOver {
+#u2863_div.mouseOver {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -2182,14 +3155,14 @@
   font-size:10px;
   text-align:left;
 }
-#u1275.mouseOver {
+#u2863.mouseOver {
 }
-#u1275_text {
+#u2863_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1276_div {
+#u2864_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -2198,7 +3171,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -2211,7 +3184,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1276 {
+#u2864 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -2223,20 +3196,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1276 .text {
+#u2864 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1276_text {
+#u2864_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1277_div {
+#u2865_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -2253,7 +3226,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1277 {
+#u2865 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -2264,19 +3237,19 @@
   font-size:10px;
   text-align:left;
 }
-#u1277 .text {
+#u2865 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1277_text {
+#u2865_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1278_div {
+#u2866_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -2285,7 +3258,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -2298,7 +3271,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1278 {
+#u2866 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -2310,20 +3283,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1278 .text {
+#u2866 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1278_text {
+#u2866_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1279_div {
+#u2867_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -2340,7 +3313,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1279 {
+#u2867 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -2351,19 +3324,19 @@
   font-size:10px;
   text-align:left;
 }
-#u1279 .text {
+#u2867 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1279_text {
+#u2867_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1280 {
+#u2868 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -2373,7 +3346,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u1281_img {
+#u2869_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -2381,7 +3354,7 @@
   width:1715px;
   height:30px;
 }
-#u1281 {
+#u2869 {
   border-width:0px;
   position:absolute;
   left:205px;
@@ -2390,20 +3363,20 @@
   height:30px;
   display:flex;
 }
-#u1281 .text {
+#u2869 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1281_text {
+#u2869_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1282 {
+#u2870 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -2411,7 +3384,7 @@
   width:0px;
   height:0px;
 }
-#u1283_div {
+#u2871_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -2420,7 +3393,7 @@
   height:26px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1220_div.png');
+  background-image:url('../../images/erp/u2366_div.png');
   background-repeat:no-repeat;
   background-size:201px 26px;
   background-position: left top;
@@ -2434,1490 +3407,11 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1283 {
+#u2871 {
   border-width:0px;
-  position:absolute;
-  left:0px;
-  top:236px;
-  width:201px;
-  height:26px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  color:#FFFFFF;
-}
-#u1283 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1283_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1284_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:114px;
-  height:16px;
-  background:inherit;
-  background-color:rgba(217, 231, 248, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:11px;
-  color:#555555;
-  text-align:left;
-}
-#u1284 {
-  border-width:0px;
-  position:absolute;
-  left:26px;
-  top:241px;
-  width:114px;
-  height:16px;
-  display:flex;
-  font-size:11px;
-  color:#555555;
-  text-align:left;
-}
-#u1284 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1284_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1285 {
-  position:absolute;
-  left:0px;
-  top:261px;
-  visibility:hidden;
-}
-#u1285_state0 {
-  position:relative;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:60px;
-  background-image:none;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u1285_state0_content {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1px;
-  height:1px;
-}
-#u1286_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
-  background-repeat:no-repeat;
-  background-size:200px 20px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1286 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1286 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1286_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1287_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:128px;
-  height:14px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:10px;
-  text-align:left;
-}
-#u1287 {
-  border-width:0px;
-  position:absolute;
-  left:34px;
-  top:2px;
-  width:128px;
-  height:14px;
-  display:flex;
-  font-size:10px;
-  text-align:left;
-}
-#u1287 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1287_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1288_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
-  background-repeat:no-repeat;
-  background-size:200px 20px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1288 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:20px;
-  width:200px;
-  height:20px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1288 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1288_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1289_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:128px;
-  height:14px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:10px;
-  text-align:left;
-}
-#u1289 {
-  border-width:0px;
-  position:absolute;
-  left:34px;
-  top:22px;
-  width:128px;
-  height:14px;
-  display:flex;
-  font-size:10px;
-  text-align:left;
-}
-#u1289 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1289_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1290_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
-  background-repeat:no-repeat;
-  background-size:200px 20px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1290 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:40px;
-  width:200px;
-  height:20px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1290 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1290_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1291_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:128px;
-  height:14px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:10px;
-  text-align:left;
-}
-#u1291 {
-  border-width:0px;
-  position:absolute;
-  left:34px;
-  top:42px;
-  width:128px;
-  height:14px;
-  display:flex;
-  font-size:10px;
-  text-align:left;
-}
-#u1291 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1291_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1292 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:236px;
-  width:200px;
-  height:24px;
-  overflow:hidden;
-  background-image:url('../../resources/images/transparent.gif');
-}
-#u1293 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  height:0px;
-}
-#u1294_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:201px;
-  height:26px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1220_div.png');
-  background-repeat:no-repeat;
-  background-size:201px 26px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  color:#FFFFFF;
-}
-#u1294 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:261px;
-  width:201px;
-  height:26px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  color:#FFFFFF;
-}
-#u1294 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1294_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1295_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:114px;
-  height:16px;
-  background:inherit;
-  background-color:rgba(217, 231, 248, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:11px;
-  color:#555555;
-  text-align:left;
-}
-#u1295 {
-  border-width:0px;
-  position:absolute;
-  left:26px;
-  top:266px;
-  width:114px;
-  height:16px;
-  display:flex;
-  font-size:11px;
-  color:#555555;
-  text-align:left;
-}
-#u1295 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1295_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1296 {
-  position:absolute;
-  left:0px;
-  top:286px;
-  visibility:hidden;
-}
-#u1296_state0 {
-  position:relative;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:60px;
-  background-image:none;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u1296_state0_content {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1px;
-  height:1px;
-}
-#u1297_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
-  background-repeat:no-repeat;
-  background-size:200px 20px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1297 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1297 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1297_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1298_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:128px;
-  height:14px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:10px;
-  text-align:left;
-}
-#u1298 {
-  border-width:0px;
-  position:absolute;
-  left:34px;
-  top:2px;
-  width:128px;
-  height:14px;
-  display:flex;
-  font-size:10px;
-  text-align:left;
-}
-#u1298 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1298_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1299_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
-  background-repeat:no-repeat;
-  background-size:200px 20px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1299 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:20px;
-  width:200px;
-  height:20px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1299 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1299_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1300_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:128px;
-  height:14px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:10px;
-  text-align:left;
-}
-#u1300 {
-  border-width:0px;
-  position:absolute;
-  left:34px;
-  top:22px;
-  width:128px;
-  height:14px;
-  display:flex;
-  font-size:10px;
-  text-align:left;
-}
-#u1300 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1300_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1301_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
-  background-repeat:no-repeat;
-  background-size:200px 20px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1301 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:40px;
-  width:200px;
-  height:20px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1301 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1301_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1302_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:128px;
-  height:14px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:10px;
-  text-align:left;
-}
-#u1302 {
-  border-width:0px;
-  position:absolute;
-  left:34px;
-  top:42px;
-  width:128px;
-  height:14px;
-  display:flex;
-  font-size:10px;
-  text-align:left;
-}
-#u1302 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1302_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1303 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:261px;
-  width:200px;
-  height:24px;
-  overflow:hidden;
-  background-image:url('../../resources/images/transparent.gif');
-}
-#u1304 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  height:0px;
-}
-#u1305_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:201px;
-  height:26px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1220_div.png');
-  background-repeat:no-repeat;
-  background-size:201px 26px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  color:#FFFFFF;
-}
-#u1305 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:286px;
-  width:201px;
-  height:26px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  color:#FFFFFF;
-}
-#u1305 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1305_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1306_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:114px;
-  height:16px;
-  background:inherit;
-  background-color:rgba(217, 231, 248, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:11px;
-  color:#555555;
-  text-align:left;
-}
-#u1306 {
-  border-width:0px;
-  position:absolute;
-  left:26px;
-  top:291px;
-  width:114px;
-  height:16px;
-  display:flex;
-  font-size:11px;
-  color:#555555;
-  text-align:left;
-}
-#u1306 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1306_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1307 {
-  position:absolute;
-  left:0px;
-  top:311px;
-  visibility:hidden;
-}
-#u1307_state0 {
-  position:relative;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:60px;
-  background-image:none;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u1307_state0_content {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1px;
-  height:1px;
-}
-#u1308_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
-  background-repeat:no-repeat;
-  background-size:200px 20px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1308 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1308 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1308_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1309_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:128px;
-  height:14px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:10px;
-  text-align:left;
-}
-#u1309 {
-  border-width:0px;
-  position:absolute;
-  left:34px;
-  top:2px;
-  width:128px;
-  height:14px;
-  display:flex;
-  font-size:10px;
-  text-align:left;
-}
-#u1309 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1309_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1310_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
-  background-repeat:no-repeat;
-  background-size:200px 20px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1310 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:20px;
-  width:200px;
-  height:20px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1310 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1310_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1311_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:128px;
-  height:14px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:10px;
-  text-align:left;
-}
-#u1311 {
-  border-width:0px;
-  position:absolute;
-  left:34px;
-  top:22px;
-  width:128px;
-  height:14px;
-  display:flex;
-  font-size:10px;
-  text-align:left;
-}
-#u1311 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1311_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1312_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
-  background-repeat:no-repeat;
-  background-size:200px 20px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1312 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:40px;
-  width:200px;
-  height:20px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1312 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1312_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1313_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:128px;
-  height:14px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:10px;
-  text-align:left;
-}
-#u1313 {
-  border-width:0px;
-  position:absolute;
-  left:34px;
-  top:42px;
-  width:128px;
-  height:14px;
-  display:flex;
-  font-size:10px;
-  text-align:left;
-}
-#u1313 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1313_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1314 {
-  border-width:0px;
-  position:absolute;
-  left:1px;
-  top:286px;
-  width:200px;
-  height:24px;
-  overflow:hidden;
-  background-image:url('../../resources/images/transparent.gif');
-}
-#u1315 {
   position:absolute;
   left:0px;
   top:186px;
-  visibility:hidden;
-}
-#u1315_state0 {
-  position:relative;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:60px;
-  background-image:none;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u1315_state0_content {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1px;
-  height:1px;
-}
-#u1316_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
-  background-repeat:no-repeat;
-  background-size:200px 20px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1316 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1316 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1316_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1317_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:128px;
-  height:14px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:10px;
-  text-align:left;
-}
-#u1317 {
-  border-width:0px;
-  position:absolute;
-  left:34px;
-  top:2px;
-  width:128px;
-  height:14px;
-  display:flex;
-  font-size:10px;
-  text-align:left;
-}
-#u1317 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1317_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1318_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
-  background-repeat:no-repeat;
-  background-size:200px 20px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1318 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:20px;
-  width:200px;
-  height:20px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1318 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1318_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1319_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:128px;
-  height:14px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:10px;
-  text-align:left;
-}
-#u1319 {
-  border-width:0px;
-  position:absolute;
-  left:34px;
-  top:22px;
-  width:128px;
-  height:14px;
-  display:flex;
-  font-size:10px;
-  text-align:left;
-}
-#u1319 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1319_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1320_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
-  background-repeat:no-repeat;
-  background-size:200px 20px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1320 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:40px;
-  width:200px;
-  height:20px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1320 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1320_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1321_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:128px;
-  height:14px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:10px;
-  text-align:left;
-}
-#u1321 {
-  border-width:0px;
-  position:absolute;
-  left:34px;
-  top:42px;
-  width:128px;
-  height:14px;
-  display:flex;
-  font-size:10px;
-  text-align:left;
-}
-#u1321 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1321_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1322 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  height:0px;
-}
-#u1323_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:201px;
-  height:26px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1220_div.png');
-  background-repeat:no-repeat;
-  background-size:201px 26px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  color:#FFFFFF;
-}
-#u1323 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:311px;
   width:201px;
   height:26px;
   display:flex;
@@ -3926,20 +3420,20 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1323 .text {
+#u2871 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1323_text {
+#u2871_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1324_div {
+#u2872_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -3957,11 +3451,11 @@
   color:#555555;
   text-align:left;
 }
-#u1324 {
+#u2872 {
   border-width:0px;
   position:absolute;
   left:26px;
-  top:316px;
+  top:191px;
   width:114px;
   height:16px;
   display:flex;
@@ -3969,25 +3463,25 @@
   color:#555555;
   text-align:left;
 }
-#u1324 .text {
+#u2872 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1324_text {
+#u2872_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1325 {
+#u2873 {
   position:absolute;
   left:0px;
-  top:336px;
+  top:211px;
   visibility:hidden;
 }
-#u1325_state0 {
+#u2873_state0 {
   position:relative;
   left:0px;
   top:0px;
@@ -4000,7 +3494,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1325_state0_content {
+#u2873_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4008,7 +3502,7 @@
   width:1px;
   height:1px;
 }
-#u1326_div {
+#u2874_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4017,7 +3511,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -4030,7 +3524,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1326 {
+#u2874 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4042,20 +3536,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1326 .text {
+#u2874 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1326_text {
+#u2874_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1327_div {
+#u2875_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4072,7 +3566,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1327 {
+#u2875 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -4083,19 +3577,19 @@
   font-size:10px;
   text-align:left;
 }
-#u1327 .text {
+#u2875 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1327_text {
+#u2875_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1328_div {
+#u2876_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4104,7 +3598,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -4117,7 +3611,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1328 {
+#u2876 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4129,20 +3623,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1328 .text {
+#u2876 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1328_text {
+#u2876_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1329_div {
+#u2877_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4159,7 +3653,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1329 {
+#u2877 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -4170,19 +3664,19 @@
   font-size:10px;
   text-align:left;
 }
-#u1329 .text {
+#u2877 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1329_text {
+#u2877_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1330_div {
+#u2878_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4191,7 +3685,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -4204,7 +3698,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1330 {
+#u2878 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4216,20 +3710,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1330 .text {
+#u2878 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1330_text {
+#u2878_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1331_div {
+#u2879_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4246,7 +3740,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1331 {
+#u2879 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -4257,29 +3751,29 @@
   font-size:10px;
   text-align:left;
 }
-#u1331 .text {
+#u2879 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1331_text {
+#u2879_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1332 {
+#u2880 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:311px;
+  top:186px;
   width:200px;
   height:24px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u1333 {
+#u2881 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4287,7 +3781,7 @@
   width:0px;
   height:0px;
 }
-#u1334_div {
+#u2882_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4296,7 +3790,7 @@
   height:26px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1220_div.png');
+  background-image:url('../../images/erp/u2366_div.png');
   background-repeat:no-repeat;
   background-size:201px 26px;
   background-position: left top;
@@ -4310,11 +3804,11 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1334 {
+#u2882 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:336px;
+  top:161px;
   width:201px;
   height:26px;
   display:flex;
@@ -4323,20 +3817,20 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1334 .text {
+#u2882 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1334_text {
+#u2882_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1335_div {
+#u2883_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4354,11 +3848,11 @@
   color:#555555;
   text-align:left;
 }
-#u1335 {
+#u2883 {
   border-width:0px;
   position:absolute;
   left:26px;
-  top:341px;
+  top:166px;
   width:114px;
   height:16px;
   display:flex;
@@ -4366,25 +3860,134 @@
   color:#555555;
   text-align:left;
 }
-#u1335 .text {
+#u2883 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1335_text {
+#u2883_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1336 {
+#u2884 {
+  border-width:0px;
   position:absolute;
   left:0px;
-  top:361px;
+  top:161px;
+  width:200px;
+  height:24px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u2885 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u2886_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:201px;
+  height:26px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2366_div.png');
+  background-repeat:no-repeat;
+  background-size:201px 26px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u2886 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:136px;
+  width:201px;
+  height:26px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u2886 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2886_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
   visibility:hidden;
 }
-#u1336_state0 {
+#u2887_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:114px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(217, 231, 248, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:11px;
+  color:#555555;
+  text-align:left;
+}
+#u2887 {
+  border-width:0px;
+  position:absolute;
+  left:26px;
+  top:141px;
+  width:114px;
+  height:16px;
+  display:flex;
+  font-size:11px;
+  color:#555555;
+  text-align:left;
+}
+#u2887 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2887_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2888 {
+  position:absolute;
+  left:0px;
+  top:161px;
+  visibility:hidden;
+}
+#u2888_state0 {
   position:relative;
   left:0px;
   top:0px;
@@ -4397,7 +4000,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1336_state0_content {
+#u2888_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4405,7 +4008,7 @@
   width:1px;
   height:1px;
 }
-#u1337_div {
+#u2889_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4414,7 +4017,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -4427,7 +4030,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1337 {
+#u2889 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4439,20 +4042,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1337 .text {
+#u2889 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1337_text {
+#u2889_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1338_div {
+#u2890_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4469,7 +4072,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1338 {
+#u2890 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -4480,19 +4083,19 @@
   font-size:10px;
   text-align:left;
 }
-#u1338 .text {
+#u2890 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1338_text {
+#u2890_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1339_div {
+#u2891_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4501,7 +4104,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -4514,7 +4117,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1339 {
+#u2891 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4526,20 +4129,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1339 .text {
+#u2891 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1339_text {
+#u2891_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1340_div {
+#u2892_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4556,7 +4159,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1340 {
+#u2892 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -4567,19 +4170,19 @@
   font-size:10px;
   text-align:left;
 }
-#u1340 .text {
+#u2892 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1340_text {
+#u2892_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1341_div {
+#u2893_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4588,7 +4191,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -4601,7 +4204,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1341 {
+#u2893 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4613,20 +4216,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1341 .text {
+#u2893 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1341_text {
+#u2893_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1342_div {
+#u2894_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4643,7 +4246,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1342 {
+#u2894 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -4654,29 +4257,29 @@
   font-size:10px;
   text-align:left;
 }
-#u1342 .text {
+#u2894 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1342_text {
+#u2894_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1343 {
+#u2895 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:336px;
+  top:136px;
   width:200px;
   height:24px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u1344 {
+#u2896 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4684,7 +4287,7 @@
   width:0px;
   height:0px;
 }
-#u1345_div {
+#u2897_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4693,7 +4296,7 @@
   height:26px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1220_div.png');
+  background-image:url('../../images/erp/u2366_div.png');
   background-repeat:no-repeat;
   background-size:201px 26px;
   background-position: left top;
@@ -4707,11 +4310,11 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1345 {
+#u2897 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:361px;
+  top:111px;
   width:201px;
   height:26px;
   display:flex;
@@ -4720,20 +4323,20 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1345 .text {
+#u2897 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1345_text {
+#u2897_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1346_div {
+#u2898_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4751,11 +4354,11 @@
   color:#555555;
   text-align:left;
 }
-#u1346 {
+#u2898 {
   border-width:0px;
   position:absolute;
   left:26px;
-  top:366px;
+  top:116px;
   width:114px;
   height:16px;
   display:flex;
@@ -4763,352 +4366,749 @@
   color:#555555;
   text-align:left;
 }
-#u1346 .text {
+#u2898 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1346_text {
+#u2898_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1347 {
+#u2899 {
+  position:absolute;
+  left:0px;
+  top:136px;
+  visibility:hidden;
+}
+#u2899_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:60px;
+  background-image:none;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u2899_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u2900_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2369_div.png');
+  background-repeat:no-repeat;
+  background-size:200px 20px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2900 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2900 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2900_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2901_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:10px;
+  text-align:left;
+}
+#u2901 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:2px;
+  width:128px;
+  height:14px;
+  display:flex;
+  font-size:10px;
+  text-align:left;
+}
+#u2901 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2901_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2902_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2369_div.png');
+  background-repeat:no-repeat;
+  background-size:200px 20px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2902 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:20px;
+  width:200px;
+  height:20px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2902 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2902_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2903_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:10px;
+  text-align:left;
+}
+#u2903 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:22px;
+  width:128px;
+  height:14px;
+  display:flex;
+  font-size:10px;
+  text-align:left;
+}
+#u2903 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2903_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2904_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2369_div.png');
+  background-repeat:no-repeat;
+  background-size:200px 20px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2904 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:40px;
+  width:200px;
+  height:20px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2904 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2904_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2905_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:10px;
+  text-align:left;
+}
+#u2905 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:42px;
+  width:128px;
+  height:14px;
+  display:flex;
+  font-size:10px;
+  text-align:left;
+}
+#u2905 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2905_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2906 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:111px;
+  width:200px;
+  height:24px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u2907 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u2908_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:201px;
+  height:26px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2366_div.png');
+  background-repeat:no-repeat;
+  background-size:201px 26px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u2908 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:86px;
+  width:201px;
+  height:26px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u2908 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2908_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2909_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:114px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(217, 231, 248, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:11px;
+  color:#555555;
+  text-align:left;
+}
+#u2909 {
+  border-width:0px;
+  position:absolute;
+  left:26px;
+  top:91px;
+  width:114px;
+  height:16px;
+  display:flex;
+  font-size:11px;
+  color:#555555;
+  text-align:left;
+}
+#u2909 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2909_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2910 {
+  position:absolute;
+  left:0px;
+  top:111px;
+  visibility:hidden;
+}
+#u2910_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:60px;
+  background-image:none;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u2910_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u2911_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2369_div.png');
+  background-repeat:no-repeat;
+  background-size:200px 20px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2911 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2911 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2911_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2912_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:10px;
+  text-align:left;
+}
+#u2912 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:2px;
+  width:128px;
+  height:14px;
+  display:flex;
+  font-size:10px;
+  text-align:left;
+}
+#u2912 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2912_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2913_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2369_div.png');
+  background-repeat:no-repeat;
+  background-size:200px 20px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2913 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:20px;
+  width:200px;
+  height:20px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2913 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2913_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2914_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:10px;
+  text-align:left;
+}
+#u2914 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:22px;
+  width:128px;
+  height:14px;
+  display:flex;
+  font-size:10px;
+  text-align:left;
+}
+#u2914 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2914_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2915_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2369_div.png');
+  background-repeat:no-repeat;
+  background-size:200px 20px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2915 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:40px;
+  width:200px;
+  height:20px;
+  display:flex;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u2915 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2915_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2916_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:14px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:10px;
+  text-align:left;
+}
+#u2916 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:42px;
+  width:128px;
+  height:14px;
+  display:flex;
+  font-size:10px;
+  text-align:left;
+}
+#u2916 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2916_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u2917 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:86px;
+  width:200px;
+  height:24px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u2918 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u2919_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:201px;
+  height:26px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  background-image:url('../../images/erp/u2366_div.png');
+  background-repeat:no-repeat;
+  background-size:201px 26px;
+  background-position: left top;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u2919 {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:386px;
-  visibility:hidden;
-}
-#u1347_state0 {
-  position:relative;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:60px;
-  background-image:none;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u1347_state0_content {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1px;
-  height:1px;
-}
-#u1348_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
-  background-repeat:no-repeat;
-  background-size:200px 20px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1348 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1348 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1348_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1349_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:128px;
-  height:14px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:10px;
-  text-align:left;
-}
-#u1349 {
-  border-width:0px;
-  position:absolute;
-  left:34px;
-  top:2px;
-  width:128px;
-  height:14px;
-  display:flex;
-  font-size:10px;
-  text-align:left;
-}
-#u1349 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1349_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1350_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
-  background-repeat:no-repeat;
-  background-size:200px 20px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1350 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:20px;
-  width:200px;
-  height:20px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1350 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1350_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1351_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:128px;
-  height:14px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:10px;
-  text-align:left;
-}
-#u1351 {
-  border-width:0px;
-  position:absolute;
-  left:34px;
-  top:22px;
-  width:128px;
-  height:14px;
-  display:flex;
-  font-size:10px;
-  text-align:left;
-}
-#u1351 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1351_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1352_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
-  background-repeat:no-repeat;
-  background-size:200px 20px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1352 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:40px;
-  width:200px;
-  height:20px;
-  display:flex;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-}
-#u1352 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1352_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u1353_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:128px;
-  height:14px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:10px;
-  text-align:left;
-}
-#u1353 {
-  border-width:0px;
-  position:absolute;
-  left:34px;
-  top:42px;
-  width:128px;
-  height:14px;
-  display:flex;
-  font-size:10px;
-  text-align:left;
-}
-#u1353 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1353_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u1354 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:361px;
-  width:200px;
-  height:24px;
-  overflow:hidden;
-  background-image:url('../../resources/images/transparent.gif');
-}
-#u1355 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  height:0px;
-}
-#u1356_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:201px;
-  height:26px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1220_div.png');
-  background-repeat:no-repeat;
-  background-size:201px 26px;
-  background-position: left top;
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  color:#FFFFFF;
-}
-#u1356 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:386px;
   width:201px;
   height:26px;
   display:flex;
@@ -5117,20 +5117,20 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1356 .text {
+#u2919 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1356_text {
+#u2919_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1357_div {
+#u2920_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -5148,7 +5148,7 @@
   color:#555555;
   text-align:left;
 }
-#u1357 {
+#u2920 {
   border-width:0px;
   position:absolute;
   left:26px;
@@ -5160,25 +5160,25 @@
   color:#555555;
   text-align:left;
 }
-#u1357 .text {
+#u2920 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1357_text {
+#u2920_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1358 {
+#u2921 {
   position:absolute;
   left:0px;
   top:411px;
   visibility:hidden;
 }
-#u1358_state0 {
+#u2921_state0 {
   position:relative;
   left:0px;
   top:0px;
@@ -5191,7 +5191,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1358_state0_content {
+#u2921_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -5199,7 +5199,7 @@
   width:1px;
   height:1px;
 }
-#u1359_div {
+#u2922_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -5208,7 +5208,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -5221,7 +5221,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1359 {
+#u2922 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -5233,20 +5233,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1359 .text {
+#u2922 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1359_text {
+#u2922_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1360_div {
+#u2923_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -5263,7 +5263,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1360 {
+#u2923 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -5274,19 +5274,19 @@
   font-size:10px;
   text-align:left;
 }
-#u1360 .text {
+#u2923 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1360_text {
+#u2923_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1361_div {
+#u2924_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -5295,7 +5295,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -5308,7 +5308,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1361 {
+#u2924 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -5320,20 +5320,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1361 .text {
+#u2924 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1361_text {
+#u2924_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1362_div {
+#u2925_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -5350,7 +5350,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1362 {
+#u2925 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -5361,19 +5361,19 @@
   font-size:10px;
   text-align:left;
 }
-#u1362 .text {
+#u2925 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1362_text {
+#u2925_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1363_div {
+#u2926_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -5382,7 +5382,7 @@
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/门店收银改造/u1223_div.png');
+  background-image:url('../../images/erp/u2369_div.png');
   background-repeat:no-repeat;
   background-size:200px 20px;
   background-position: left top;
@@ -5395,7 +5395,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1363 {
+#u2926 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -5407,20 +5407,20 @@
   font-weight:400;
   font-style:normal;
 }
-#u1363 .text {
+#u2926 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1363_text {
+#u2926_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1364_div {
+#u2927_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -5437,7 +5437,7 @@
   font-size:10px;
   text-align:left;
 }
-#u1364 {
+#u2927 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -5448,19 +5448,19 @@
   font-size:10px;
   text-align:left;
 }
-#u1364 .text {
+#u2927 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1364_text {
+#u2927_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1365 {
+#u2928 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -5470,7 +5470,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u1366 {
+#u2929 {
   border-width:0px;
   position:absolute;
   left:210px;
@@ -5478,7 +5478,7 @@
   width:1710px;
   height:972px;
 }
-#u1366_input {
+#u2929_input {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -5487,7 +5487,7 @@
   height:972px;
   overflow:auto;
 }
-#u1367_div {
+#u2930_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -5510,7 +5510,7 @@
   font-size:11px;
   color:#21498D;
 }
-#u1367 {
+#u2930 {
   border-width:0px;
   position:absolute;
   left:254px;
@@ -5521,19 +5521,19 @@
   font-size:11px;
   color:#21498D;
 }
-#u1367 .text {
+#u2930 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1367_text {
+#u2930_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1368_img {
+#u2931_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -5541,7 +5541,7 @@
   width:11px;
   height:11px;
 }
-#u1368 {
+#u2931 {
   border-width:0px;
   position:absolute;
   left:333px;
@@ -5550,14 +5550,14 @@
   height:11px;
   display:flex;
 }
-#u1368 .text {
+#u2931 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1368_text {
+#u2931_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;

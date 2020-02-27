@@ -79,6 +79,7 @@
 .arrow {
 }
 .text_field {
+  font-size:14px;
   color:#000000;
   text-align:left;
 }
@@ -105,6 +106,11 @@
 .flow_shape {
 }
 .snapshot {
+}
+.sticky_1 {
+  text-align:left;
+}
+._线段 {
 }
 ._连接 {
 }
@@ -154,5 +160,63 @@
 .table_cell {
 }
 .ellipse1 {
+}
+._图片1 {
+  color:#000000;
+}
+.horizontal_line {
+}
+._下拉列表框 {
+  color:#000000;
+  text-align:left;
+}
+.html_button {
+  text-align:center;
+}
+._文本段落1 {
+  text-align:left;
+}
+._图片_1 {
+  color:#000000;
+}
+._图片2 {
+  color:#000000;
+}
+._文本链接 {
+  color:#0000FF;
+}
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
+._多行文本框 {
+  color:#000000;
+  text-align:left;
+}
+._单元格 {
+}
+._多行文本框1 {
+  color:#000000;
+  text-align:left;
+}
+.line1 {
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
+.refs-design-apple {
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+._形状2 {
+  font-family:'PingFang SC Medium', 'PingFang SC';
+  font-weight:normal;
+  font-style:normal;
+  font-size:50px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:normal;
 }
 textarea, select, input, button { outline: none; }
