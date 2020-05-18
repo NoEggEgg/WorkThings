@@ -110,6 +110,15 @@
 .sticky_1 {
   text-align:left;
 }
+.sticky_2 {
+  text-align:left;
+}
+.sticky_3 {
+  text-align:left;
+}
+.sticky_4 {
+  text-align:left;
+}
 ._线段 {
 }
 ._连接 {
@@ -218,5 +227,10 @@
   color:#FFFFFF;
   text-align:center;
   line-height:normal;
+}
+.refs-chart-data {
+  font-family:'';
+  font-weight:400;
+  font-style:normal;
 }
 textarea, select, input, button { outline: none; }
