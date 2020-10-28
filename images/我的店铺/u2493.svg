@@ -1,7 +1,19 @@
-<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" width="200" height="200" viewBox="0 0 200 200"><defs><style type="text/css"><![CDATA[
-@font-face {
-  font-family: "ifont";
-  src: url("//at.alicdn.com/t/font_1442373896_4754455.eot?#iefix") format("embedded-opentype"), url("//at.alicdn.com/t/font_1442373896_4754455.woff") format("woff"), url("//at.alicdn.com/t/font_1442373896_4754455.ttf") format("truetype"), url("//at.alicdn.com/t/font_1442373896_4754455.svg#ifont") format("svg");
-}
-
-]]></style></defs><g class="transform-group"><g transform="scale(0.1953125, 0.1953125)"><path d="M463.99957 784.352211c0 26.509985 21.490445 48.00043 48.00043 48.00043s48.00043-21.490445 48.00043-48.00043c0-26.509985-21.490445-48.00043-48.00043-48.00043S463.99957 757.842226 463.99957 784.352211zM512 960c-247.039484 0-448-200.960516-448-448S264.960516 64 512 64 960 264.960516 960 512 759.039484 960 512 960zM512 128.287273c-211.584464 0-383.712727 172.128262-383.712727 383.712727 0 211.551781 172.128262 383.712727 383.712727 383.712727 211.551781 0 383.712727-172.159226 383.712727-383.712727C895.712727 300.415536 723.551781 128.287273 512 128.287273zM512 673.695256c-17.664722 0-32.00086-14.336138-32.00086-31.99914l0-54.112297c0-52.352533 39.999785-92.352318 75.32751-127.647359 25.887273-25.919957 52.67249-52.67249 52.67249-74.016718 0-53.343368-43.07206-96.735385-95.99914-96.735385-53.823303 0-95.99914 41.535923-95.99914 94.559333 0 17.664722-14.336138 31.99914-32.00086 31.99914s-32.00086-14.336138-32.00086-31.99914c0-87.423948 71.775299-158.559333 160.00086-158.559333s160.00086 72.095256 160.00086 160.735385c0 47.904099-36.32028 84.191695-71.424378 119.295794-27.839699 27.776052-56.575622 56.511974-56.575622 82.3356l0 54.112297C544.00086 659.328155 529.664722 673.695256 512 673.695256z" fill="#272636"></path></g></g></svg>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="28px" height="34px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter x="378px" y="181px" width="28px" height="34px" filterUnits="userSpaceOnUse" id="filter1023">
+      <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.698039215686274 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget1024">
+      <path d="M 391 208.036928468354  C 387.6 202.40734059591  382.5 199.029587872444  382.5 193.4  C 382.5 190.465714285714  384.2 185.5  391 185.5  C 397.8 185.5  399.5 190.465714285714  399.5 193.4  C 399.5 199.029587872444  394.4 202.40734059591  391 208.036928468354  Z " fill-rule="nonzero" fill="#009dd9" stroke="none" />
+      <path d="M 391 209  C 387.4 203  382 199.4  382 193.4  C 382 190.28  383.8 185  391 185  C 398.2 185  400 190.28  400 193.4  C 400 199.4  394.6 203  391 209  Z M 391 207.073856936707  C 394.2 201.81468119182  399 198.659175744887  399 193.4  C 399 190.651428571429  397.4 186  391 186  C 384.6 186  383 190.651428571429  383 193.4  C 383 198.659175744887  387.8 201.81468119182  391 207.073856936707  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+    </g>
+  </defs>
+  <g transform="matrix(1 0 0 1 -378 -181 )">
+    <use xlink:href="#widget1024" filter="url(#filter1023)" />
+    <use xlink:href="#widget1024" />
+  </g>
+</svg>

@@ -20,6 +20,13 @@
 }
 .button {
 }
+.heading_1 {
+  font-family:'';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -184,6 +191,9 @@
 }
 ._文本段落1 {
   text-align:left;
+}
+._提交按钮 {
+  color:#000000;
 }
 ._图片_1 {
   color:#000000;
