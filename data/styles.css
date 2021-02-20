@@ -10,7 +10,23 @@
   line-height:normal;
   text-transform:none;
 }
+.paragraph {
+  text-align:left;
+}
+.heading_2 {
+  font-family:'';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
 .box_1 {
+}
+.image {
+  color:#000000;
+}
+.html_button {
+  text-align:center;
 }
 ._形状 {
 }
@@ -81,11 +97,18 @@
 ._文本段落 {
   text-align:left;
 }
+._单选按钮 {
+  text-align:left;
+}
 .line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
 }
 .arrow {
 }
-.text_field {
+.text_field1 {
   font-size:14px;
   color:#000000;
   text-align:left;
@@ -143,9 +166,15 @@
 }
 ._表单禁用 {
 }
+._形状1 {
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  color:#666666;
+}
 ._流程形状 {
 }
-._形状1 {
+._形状2 {
   font-family:'';
   font-weight:normal;
   font-style:normal;
@@ -164,10 +193,10 @@
 }
 .ellipse {
 }
-.image {
+.image1 {
 }
 .refs-webm-wechat {
-  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
 }
@@ -186,8 +215,11 @@
   color:#000000;
   text-align:left;
 }
-.html_button {
+.html_button1 {
   text-align:center;
+}
+.tree_node {
+  text-align:left;
 }
 ._文本段落1 {
   text-align:left;
@@ -225,12 +257,12 @@
 .text_link_mouse_down {
 }
 .refs-design-apple {
-  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
 }
-._形状2 {
-  font-family:'PingFang SC Medium', 'PingFang SC';
+._形状3 {
+  font-family:'PingFangSC-Medium', 'PingFang SC Medium', 'PingFang SC';
   font-weight:normal;
   font-style:normal;
   font-size:50px;
@@ -242,5 +274,27 @@
   font-family:'';
   font-weight:400;
   font-style:normal;
+}
+.connector {
+}
+._形状4 {
+}
+._默认样式 {
+}
+.box_21 {
+}
+._图片3 {
+}
+.icon1 {
+}
+._默认样式1 {
+}
+._形状5 {
+}
+._文本框1 {
+  color:#000000;
+  text-align:left;
+}
+.box_11 {
 }
 textarea, select, input, button { outline: none; }
